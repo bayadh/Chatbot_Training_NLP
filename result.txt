@@ -1,0 +1,14 @@
+~[Location]
+    go
+    Cambridge
+    Peterbourgh
+    cambridge
+    going
+    Cambridge
+    Peterborough
+    depart
+    leave
+    know
+    free
+    2
+    visit

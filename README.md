@@ -28,12 +28,12 @@ The highlited words represent the identified entities by the default model which
 
 
 ###### *Using custom spaCy. <br />
-
+These are the results given by our model after training
+![Alt text](/Results/ScreenShots/custom_spacy3.png?raw=true "Custom_spaCy")<br />
 
 #### Chatito_files:
 Contains the chatito files used to generate the final dataset.
-These are the results given by our model after training
-![Alt text](/Results/ScreenShots/custom_spacy3.png?raw=true "Custom_spaCy")<br />
+
 
 
 #### Generated_dataset:

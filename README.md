@@ -1,6 +1,6 @@
 # Generating Training Data and Developing a Virtual Assistant for Tourism
 The goal of this project is to generate  a reference corpus related to the Tourism domain for training NLU engines using the [MultiWOZ 2.0](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/) dataset. <br />
-The detailed [paper](https://www.overleaf.com/read/nykmttgstkvs) for this project.
+The detailed [report](https://www.overleaf.com/read/nykmttgstkvs) for this project.
 
 ## Structure of this project:
 

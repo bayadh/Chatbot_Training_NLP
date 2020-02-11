@@ -1,4 +1,0 @@
-~[CARDINAL]
-   6
-~[DATE]
-   the same day

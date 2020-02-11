@@ -1,0 +1,4 @@
+
+~[DATE]
+   |wednesday   |14:45
+ Yes , I need a train for [DATE]  arriving at 14:45 . Yes , I need a train for wednesday arriving at [DATE]  .

@@ -1,0 +1,6 @@
+~[CARDINAL]
+   6
+~[DATE]
+   Saturday
+~[TIME]
+   4 nights

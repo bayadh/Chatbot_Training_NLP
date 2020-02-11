@@ -1,0 +1,10 @@
+
+~[FAC]
+   |Stansted Airport
+~[GPE]
+   |Cambridge
+~[CARDINAL]
+   |14:45
+~[DATE]
+   |Wednesday
+ Yes , I need a train for [DATE]  arriving at 14:45 . Yes , I need a train for wednesday arriving at [DATE]  . I have train [PRODUCT]  leaving cambridge and arriving london kings cross at 13:51 .   Will that work for you ? I have train TR3634 leaving cambridge and arriving [GPE]  kings cross at 13:51 .   Will that work for you ? I have train TR3634 leaving cambridge and arriving london kings cross at [CARDINAL]  .   Will that work for you ? I need the train to go to [GPE]  and leave from stansted airport . I reserved a seat for you on the 05:24 train . Your reference number is9BQT5T9M. Your ticket of [CARDINAL]  GBP is payable when you get to the station . I reserved a seat for you on the 05:24 train . Your reference number is9BQT5T9M. Your ticket of 10.1 [ORG]  is payable when you get to the station . I need a train from Stansted Airport to Cambridge , arriving by 14:45 on Wednesday , please ... I need a train from Stansted Airport to [GPE]  , arriving by 14:45 on Wednesday , please ... I need a train from Stansted Airport to Cambridge , arriving by [CARDINAL]  on Wednesday , please ... I need a train from Stansted Airport to Cambridge , arriving by 14:45 on [DATE]  , please ...

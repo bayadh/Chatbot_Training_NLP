@@ -1,0 +1,107 @@
+
+~[price-range]
+    cheap place to dine|moderate or expensive|cheap|cheap place|in the moderate price range|cheap place to stay |moderate |expensive|moderatly priced hotel |moderate place to stay|expensive place to stay|moderatly priced guesthouse |
+
+
+~[area]
+    in the centre|in the north side of town|in Cambridge|near the centre of town|in the east part of town|near the airport |in the south part of town|in the north
+
+~[day]
+    for Tuesday|on Friday|next Monday|on Tuesday|this weekend|next weekend |ext Thursday|on Wednesday |for Friday|Wednesday
+
+
+~[restaurant-book-people]
+    for 3 people
+
+
+~[restaurant-name]
+    La Raza |riverside brasserie|cambri| pizza express|yippee noodle bar|curry prince|midsummer house restaurant| cote|restaurant alimentum|nandos city centre|chiquito restaurant bar|maharajah tandoori restaurant|yu garden|bangkok city|copper kettle|backstreet bistro|the golden curry|don pasquale pizzeria|sesame restaurant and bar|charlie|the cow pizza kitchen and bar|india house|loch fyne|eraina|royal spice
+    
+
+~[restaurant-food]
+    Spanish cuisine|for 3|Spanish cuisine|Mediterranean restaurant|Turkish food|Indian food|is an indian restaurant|Indian restaurant
+
+
+~[restaurant-book-time]
+    at 14:45|at 18:45|at 13:30|at 11:45|at 12:00|at 15:15| at 16:45|at 15:45|at 19:30| at 14:00|at 10:45|at 17:30
+
+
+~[day]
+    wednesday|on Saturday| monday |this weekend|or the weekend |sunday |tuesdat | on thursday| on wednesday|Monday|on Tuesday|for Tuesday|on Friday|next Monday| on Tuesday|next Thursday|on Wednesday |for Friday|for Wednesday
+
+
+~[hotel-parking]
+    free parking
+
+
+~[hotel-internet]
+    free wifi
+
+
+~[hotel-name]
+    The Alexander B&B|The El Shadda|The allenbell|the gonville hotel|city centre north b and b|City Centre North B and B|The Cambridge|the Acorn
+
+
+~[hotel-stars]
+    4 star |0 rating|3 star | be a 3 star
+
+
+~[hotel-book-stay]
+    3 nights|for 5 nights |4 night|for 7 days|5 days|6 nights|4 night
+
+
+~[hotel-book-people]
+    3 people|a table for 5|4 people|7 people|2 people|for 5 persons
+
+
+~[taxi-arrive-by]
+    by 14:45|in the center
+
+
+~[taxi-destination]
+    to the gandhi|to Cambridge|to the centre|the center of town|to Cambridge Retail Park Newmarket|to Cambridge
+
+
+~[taxi-departure]
+    leave the restaurant|from broxbourne|from stansted airport|from King's Lynn
+
+
+~[hotel-type]
+    a guesthouse|hotel|Guest house |a place to stay
+
+
+~[train-departure]
+    from Cambridge|from Norwich|from London Kings Cross |broxbourne|london liverpool street|leicester|stansted airport|kings lynn|london kings cross|birmingham
+
+
+~[train-destination]
+    to Bishops Stortford|to Leicester|to Cambridge|london kings cross| stansted airport|to stevenage|lecester|bishop stortford|to north|to willi|to curry prince|to bournemouth
+
+
+~[train-leave-at]
+    after 15:30|at 17:29|after 21:00| after 20:45|at 21:17 | at 15:15|at 16:45|at 15:45|at 19:30|at 14:00| at 10:45| at 17:30
+
+
+~[train-book-people]
+    for 4 people|2 tickets|2 people |a table of 5|for 7 people
+
+
+~[restaurant-bookday]
+    on wednesday|for Tuesday
+
+
+~[attraction-type]
+    in the type of college|museum |architecture|colleges|swimming pool|college|theate|multiple sports 
+
+
+~[attraction-name]
+    the corpus christi college| Corpus Christi College|the corpus christi college|Corpus Christi College|Saint Mary 's Church|the whipple museum|Saint Catharine's College|Downing college| King's College| the holy trinity church|The junction theatre|Little Saint Mary's Church |Wandlebury country park|riverboat georgin| byard art |soul tree nightclub |club salsa|cherry hinton hall and grounds|museum of archaelogy and anthropology|castle galleries|nusha|regency gallery|whipple museum of the history of science| churchill college|holy trinity church|cambridge artworks|cambridge arts theatre| scott polar museum| scudamores punting co| clare college|saint barnabas press gallery|cambridge and county folk museum|kettle's yard
+
+
+~[train-arrive-by]
+    at the booked time of 11:30.|by 14:45|by 22:35|by 03:15| arrive by 22:08 |by 18:00
+    
+
+~[taxi-leave-at]
+    by 03:15|for 11:30|at 21:01| at 5:15|after 21:15|for 11:30
+

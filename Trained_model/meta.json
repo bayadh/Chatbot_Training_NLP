@@ -1,1 +1,0 @@
-{"name":"model","description":"","vectors":{"keys":0,"name":"spacy_pretrained_vectors","vectors":0,"width":0},"pipeline":["ner"],"email":"","factories":{"ner":"ner"},"version":"0.0.0","license":"","author":"","lang":"en","spacy_version":">=2.2.3","url":"","labels":{"ner":["attraction","hotel","hoyel","resraurant","restaurant","taxi","train"]}}

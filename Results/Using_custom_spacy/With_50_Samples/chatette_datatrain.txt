@@ -1,0 +1,76 @@
+
+
+ ~[price-range]
+    cheap place to dine
+
+ ~[restaurant-area]
+    in the centre
+
+ ~[restaurant-book-people]
+    for 3 people
+
+ ~[restaurant-name]
+    La Raza |cheap
+
+ ~[restaurant-food]
+    Spanish cuisine|for 3
+
+ ~[restaurant-book-time]
+    at 14:45
+
+ ~[restaurant-book-day]
+    wednesday
+
+ ~[hotel-parking]
+    free parking
+
+ ~[hotel-internet]
+    free wifi
+
+ ~[hotel-name]
+    The Alexander B&B
+
+ ~[hotel-stars]
+    4 star|The El Shadda|0 rating
+
+ ~[hotel-book-stay]
+    3 nights
+
+ ~[hotel-book-people]
+    3 people
+
+ ~[taxi-arrive-by]
+    by 14:45|cheap place|in the center|city centre north b and b|City Centre North B and B
+
+ ~[hotel-type]
+    a guesthouse|in the north side of town
+
+ ~[train-departure]
+    from Cambridge
+
+ ~[train-destination]
+    to Bishops Stortford|Monday
+
+ ~[train-leave-at]
+    after 15:30|at 17:29
+
+ ~[train-book-people]
+    for 4 people|Mediterranean restaurant|near the centre of town|the gardenia|la mimosa| shiraz|a table of 5|for 11:30
+
+ ~[restaurant-bookday]
+    on wednesday|in the cheap price range
+
+ ~[attraction-type]
+    in the type of college
+
+ ~[attraction-name]
+    the corpus christi college|Corpus Christi College
+
+ ~[train-arrive-by]
+    at the booked time of 11:30. |free wifi|be a 3 star|moderate or expensive|the gonville hotel|expensive|free parking|for Tuesday|for 7 people| 4 night|The Cambridge|swimming pool
+
+ ~[attraction-area]
+    the town centre. 
+
+ ~[taxi-leave-at]
+    by 03:15|in the moderate price range

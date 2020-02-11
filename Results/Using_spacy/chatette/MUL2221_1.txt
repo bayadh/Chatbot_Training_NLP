@@ -1,0 +1,8 @@
+
+~[PRODUCT]
+   |TR3634
+~[GPE]
+   |london
+~[CARDINAL]
+   |13:51
+ Yes , I need a train for [DATE]  arriving at 14:45 . Yes , I need a train for wednesday arriving at [DATE]  . I have train [PRODUCT]  leaving cambridge and arriving london kings cross at 13:51 .   Will that work for you ? I have train TR3634 leaving cambridge and arriving [GPE]  kings cross at 13:51 .   Will that work for you ? I have train TR3634 leaving cambridge and arriving london kings cross at [CARDINAL]  .   Will that work for you ?

@@ -1,0 +1,69 @@
+%[attraction]('training': '100', 'testing': '100')
+    *[25%] ~[hi?] ~[find] ~[attraction-type] in ~[attraction-area]
+    *[25%] ~[hi?] ~[find] ~[attraction-name] in ~[attraction-area] 
+    *[25%] ~[hi?] ~[info] ~[attraction-name]
+    *[25%] ~[hi?] ~[info] ~[attraction-type] in ~[attraction-area] 
+
+~[attraction-name]
+    the corpus christi college
+    Corpus Christi College
+    Saint Mary 's Church
+    the whipple museum
+    Saint Catharine's College
+    Downing college
+    King's College
+    the holy trinity church
+    The junction theatre
+    Little Saint Mary's Church 
+    Wandlebury country park
+    riverboat georgin
+    byard art
+    soul tree nightclub
+    club salsa
+    cherry hinton hall and grounds
+    museum of archaelogy and anthropology
+    castle galleries
+    nusha
+    regency gallery
+    whipple museum of the history of science
+    churchill college
+    holy trinity church
+    cambridge artworks
+    cambridge arts theatre
+    scott polar museum
+    scudamores punting co
+    clare college
+    saint barnabas press gallery
+    cambridge and county folk museum
+    kettle's yard
+
+~[attraction-area]
+    the town centre
+    in the centre
+    in the east
+    on the south side of town
+    in the south
+    in the city centre
+
+~[attraction-type]
+    museum 
+    architecture
+    colleges
+    in the type of college
+    swimming pool
+    college
+    theate
+    multiple sports 
+
+~[info]
+    I am looking for the addresse of
+    Could you give me the address for
+
+~[find]
+    I'm looking for
+    Is there any
+
+~[hi]
+    hi
+    hello
+    hey

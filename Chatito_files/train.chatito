@@ -1,0 +1,84 @@
+
+%[train]('training': '100', 'testing': '100')
+    *[15%] ~[hi?] ~[reserve]  ~[train-departure] on ~[train-day] for ~[train-book-people]
+    *[15%] ~[hi?] ~[reserve]  ~[train-departure] on ~[train-day] for ~[train-book-people] ~[train-departure] to ~[train-destination]
+    *[15%] ~[hi?] ~[reserve]  ~[train-departure] on ~[train-day] for ~[train-book-people] to ~[train-destination]
+    *[15%] ~[hi?] ~[reserve]  ~[train-departure]  for ~[train-book-people] to ~[train-destination]
+    *[15%] ~[hi?] ~[reserve] to ~[train-destination] ~[train-leave-at] 
+    *[15%] ~[hi?] ~[reserve] to ~[train-destination] arriving ~[train-arrive-by] 
+    *[10%] ~[hi?] ~[reserve] for ~[train-book-people] 
+
+~[train-departure]
+    from Cambridge
+    from Norwich
+    from London Kings Cross 
+    broxbourne
+    london liverpool street
+    leicester
+    stansted airport
+    kings lynn
+    london kings cross
+    birmingham 
+
+~[train-destination]
+    to Bishops Stortford
+    to Leicester
+    to Cambridge
+    london kings cross
+    stansted airport
+    to stevenage
+    lecester
+    bishop stortford
+    to north
+    to willi
+    to curry prince
+    to bournemouth
+
+~[train-day]
+    Monday
+    on Tuesday
+    for Tuesday
+    on Friday
+    next Monday
+    on Tuesday
+    next Thursday
+    on Wednesday 
+    for Friday
+    for Wednesday
+
+~[train-leave-at]
+    after 15:30
+    at 17:29
+    after 21:00
+    after 20:45
+    at 21:17 
+    at 15:15
+    at 16:45
+    at 15:45
+    at 19:30
+    at 14:00
+    at 10:45
+    at 17:30
+
+~[train-book-people]
+    for 4 people
+    2 tickets
+    2 people 
+
+~[train-arrive-by]
+    by 18:00
+    by 22:35 
+    at the booked time of 11:30. 
+    by 03:15
+    arrive by 22:08 
+
+~[reserve]
+    I want to buy a ticket
+    I want to book a train ticket
+    could I book a train 
+    I want to go 
+
+~[hi]
+    hi
+    hello
+    hey

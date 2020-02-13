@@ -39,4 +39,11 @@ Contains the chatito files used to generate the final dataset.
 #### Generated_dataset:
 Contains the generated training and test sets.
 
+#### Chatbot.js
+To run the code: 
+* npm install node-nlp
+* node chatbot.js
+* type user utterance 
+
+
 

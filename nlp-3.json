@@ -1,0 +1,67 @@
+
+
+    {
+        "area":[
+"inthecenter","inCambridge","nearthecentreoftown","intheeastpartoftown","neartheairport","inthenorth","inthesouth","intheeast","inthewest","inthenorthpartoftown","inthesouthpartoftown","intheeastpartoftown","inthewestpartoftown","southernaylesbray","peterborough","stevenage","bishopsstortford"],
+    "day":[
+        "tuesday","friday","monday","wednesday","saturday","thursday","sunday","Tuesday","Friday","Monday","Wednesday","Saturday","Thursday","Sunday"],
+   
+   "pricerange":[
+        "cheapplace","moderate","expensive","moderatlypriced","moderateplace","expensiveplace","moderatlypriced","inthemoderatepricerange"],
+
+    "hoteltype":[
+    "guesthouse","Guesthouse","guest-house","Hotel","hotel","placetostay"],
+
+"hotelparking":["freeparking","Freeparking","parking"],
+"hotelinternet":[
+"internet","wifi","free-wif","Freewifi","Wifi","freeinternet"
+],
+"hotelname":[
+"citycentrenorthbandb","expressbyholidayinncambridge","elshaddai","aandbguesthouse","arburylodgeguesthouse","universityarmshotel","kirkwoodhouse","autumnhouse","gonvillehotel","levertonhouse","acornguesthouse","thecambridgebelfry","ashleyhotel","thelensfieldhotel","finchesbedandbreakfast","worthhouse","wandleburycoutn","allenbell","rosa'sbedandbreakfast","homefromhome","avalon","alpha-miltonguesthouse","alexanderbedandbreakfast","cityroomz","limehouse","archwayhouse","warkworthhouse","lovelllodge","aylesbraylodgeguesthouse","carolinabedandbreakfast","huntingdonmarriotthotel","hobsonshouse","hamiltonlodge","cambridgebelfry","bridgeguesthouse","gonville","acornhouse","citycenternorth","expressby","clare","acorn","northbandb","lensfield","citystoprest","kirkwood","levert","anatolia","huntingdonmarriothotel","cherr","huntingd","nusha","aylesbraylodge","royalspice","lamargherit","thegall","cityroomz","alexander","caridgebelfrey","alexanderbed&breakfast","theallenbell.","theallenbell","lensfieldhotel","tandooripalace","huntingdonhotel","autumnhouse.","doubletreebyhiltoncambridge"
+],
+
+"hotelstars":[
+"4stars","2stars","1star","3stars","5stars","0rating"
+],
+"hotelbookstay":[
+"1night","2nights","3nights","4nights","5nights","6nights","7nights","8nights","9nights","1day","2days","3days","4days","5days","6days","7days","8days","9days"
+],
+"hotelbookpeople":[
+"3people","2people","4people","5people","6people","7people","8people","9people","threepeople","twopeople","fourpeople","fivepeople","sixpeople","sevenpeople","eightpeople","ninepeople"
+],
+"restaurantbookpeople":[
+"atablefor2","atablefor3","atablefor4","atablefor5","atablefor6","atablefor7","atablefor8","atablefor9","atablefortwo","atableforthree","atableforfour","atableforfive","atableforsix","atableforseven","atableforeight","atablefornine"
+],
+"restaurantname":[
+"mezebarrestaurant","pizzahutcitycentre","thegoodluckchinesefoodtakeaway","caffeuno","thegardenia","theoakbistro","salathong","thanhbinh","riversidebrasserie","cambri","pizzaexpress","yippeenoodlebar","curryprince","midsummerhouserestaurant","restaurantalimentum","nandoscitycentre","chiquitorestaurantbar","maharajahtandoorirestaurant","yugarden","bangkokcity","copperkettle","backstreetbistro","thegoldencurry","donpasqualepizzeria","sesamerestaurantandbar","charlie","thecowpizzakitchenandbar","indiahouse","lochfyne","eraina","royalspice","prezzo","curryking","thenirala","currygarden","zizzicambridge","davincipizzeria","jinlingnoodlebar","laraza","theriverbarsteakhouseandgrill","pipasharestaurant","goldencurry","saigoncity","pizzaexpressfenditton","littleseoul","meghna","saffronbrasserie","jrestaurant","lamargherita","theluckystar","lanhonghouse","hotpot","thegandhi","cocum","goldenhouse","latasca","shanghaifamilyrestaurant","worthhouse","wagamama","galleria","travellersrest","mahalofcambridge","archway","moleculargastonomy","saintjohnschophouse","anatoliaandefesrestaurant","shirazrestaurant","nirala","cambridgechophouse","bridge","luckystar","tangchinese","ricehouse","limehouse","clowns","parksidepools","thedojonoodlebar","nusha","hobsonhouse","curryqueen","elshaddai","oldschool","gardenia","slugandlettuce","camboats","missingsock","grafton","cambridgelodge","fitzbillies","hamiltonlodge","gastropub","funky","cowpizza","ashley","ros","hobso","kitchenandbar","pipasha","seasamerestaurantandbar","thealex","oneseven","shanghifamilyrestaurant","cambridgebe","margherita","adden","ianhonghouse"
+],
+"restaurantfood":[
+"Spanishcuisine","Mediterranean","Turkishfood","Indianfood","indian","Indianrestaurant","Turkishrestaurant","aisianfood","mexicanfood"
+],
+"restaurantbooktime":[
+"at14:45","at10:30","at18:45","at13:30","at15:00","at11:45","at12:00","at15:15","at16:45","at15:45","at19:30","at14:00","at10:45","at17:30"
+],
+"traindestination":[
+"toBishopsStortford","toLeicester","toCambridge","londonkingscross","stanstedairport","tostevenage","lecester","bishopstortford","tonorth","towilli","tocurryprince","tobournemouth"
+],
+"traindeparture":[
+"fromCambridge","fromNorwich","fromLondonKingsCross","broxbourne","londonliverpoolstreet","fromleicester","stanstedairport","kingslynn","londonkingscross","birmingham"
+],
+"trainleaveat":[
+"after15:30","at17:29","after21:00","after20:45","at21:17","at15:15","at16:45","at15:45","at19:30","at14:00","at10:45","at17:30"
+],
+"trainarriveby":[
+"by18:00","by22:35","atthebookedtimeof11:30.","by03:15","arriveby22:08"
+],
+"trainbookpeople":[
+"1ticket","2tickets","3tickets","4tickets","5tickets","6tickets","7tickets","8tickets","9tickets"
+],
+"attractionname":[
+"thecorpuschristicollege","CorpusChristiCollege","SaintMarysChurch","thewhipplemuseum","SaintCatharinesCollege","Downingcollege","KingsCollege","theholytrinitychurch","Thejunctiontheatre","LittleSaintMarysChurch","Wandleburycountrypark","riverboatgeorgin","byardart","soultreenightclub","clubsalsa","cherryhintonhallandgrounds","museumofarchaelogyandanthropology","castlegalleries","regencygallery","whipplemuseumofthehistoryofscience","churchillcollege","holytrinitychurch","cambridgeartworks","cambridgeartstheatre","scottpolarmuseum","scudamorespuntingco","clarecollege","saintbarnabaspressgallery","cambridgeandcountyfolkmuseum","kettlesyard"
+],
+"attractiontype":[
+"museum","architecture","colleges","inthetypeofcollege","swimmingpool","college","theate","multiplesports"
+]
+}
+
+
